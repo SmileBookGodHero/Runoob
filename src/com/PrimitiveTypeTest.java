@@ -3,6 +3,7 @@ package com;
 /**
  * Created by user on 2017/5/12.
  */
+
 public class PrimitiveTypeTest {
     public static void main(String[] args) {
         // byte
