@@ -22,10 +22,17 @@
         <entry file="file://$PROJECT_DIR$/src/com/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
+<<<<<<< HEAD
               <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
               <folding>
                 <element signature="e#175#176#0" expanded="true" />
                 <element signature="e#242#243#0" expanded="true" />
+=======
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+>>>>>>> feature1
               </folding>
             </state>
           </provider>
@@ -682,7 +689,7 @@
       <workItem from="1495090074913" duration="879000" />
       <workItem from="1495156346960" duration="226000" />
       <workItem from="1495156786751" duration="1181000" />
-      <workItem from="1495591501257" duration="2044000" />
+      <workItem from="1495591501257" duration="2647000" />
     </task>
     <task id="LOCAL-00001" summary="实例化变量">
       <created>1494557310494</created>
@@ -751,7 +758,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="9241000" />
+=======
+    <option name="totallyTimeSpent" value="9742000" />
+>>>>>>> feature1
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1006,8 +1017,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#175#176#0" expanded="true" />
             <element signature="e#242#243#0" expanded="true" />
+=======
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+>>>>>>> feature1
           </folding>
         </state>
       </provider>
@@ -1017,8 +1033,13 @@
         <state relative-caret-position="180">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#175#176#0" expanded="true" />
             <element signature="e#242#243#0" expanded="true" />
+=======
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+>>>>>>> feature1
           </folding>
         </state>
       </provider>
@@ -1063,8 +1084,13 @@
         <state relative-caret-position="180">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#175#176#0" expanded="true" />
             <element signature="e#242#243#0" expanded="true" />
+=======
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+>>>>>>> feature1
           </folding>
         </state>
       </provider>
@@ -1109,8 +1135,13 @@
         <state relative-caret-position="180">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#175#176#0" expanded="true" />
             <element signature="e#242#243#0" expanded="true" />
+=======
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+>>>>>>> feature1
           </folding>
         </state>
       </provider>
@@ -1155,8 +1186,13 @@
         <state relative-caret-position="180">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#175#176#0" expanded="true" />
             <element signature="e#242#243#0" expanded="true" />
+=======
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+>>>>>>> feature1
           </folding>
         </state>
       </provider>
@@ -1234,10 +1270,17 @@
     <entry file="file://$PROJECT_DIR$/src/com/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
+<<<<<<< HEAD
           <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           <folding>
             <element signature="e#175#176#0" expanded="true" />
             <element signature="e#242#243#0" expanded="true" />
+=======
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+>>>>>>> feature1
           </folding>
         </state>
       </provider>
