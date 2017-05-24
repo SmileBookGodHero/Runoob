@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14264ef2-323e-48b5-a0fe-6c76c2028e73" name="Default" comment="" />
+    <list default="true" id="14264ef2-323e-48b5-a0fe-6c76c2028e73" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/HelloWorld.java" afterPath="$PROJECT_DIR$/src/com/HelloWorld.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +21,11 @@
       <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state relative-caret-position="60">
+              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
               <folding>
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -680,7 +682,7 @@
       <workItem from="1495090074913" duration="879000" />
       <workItem from="1495156346960" duration="226000" />
       <workItem from="1495156786751" duration="1181000" />
-      <workItem from="1495591501257" duration="1785000" />
+      <workItem from="1495591501257" duration="2044000" />
     </task>
     <task id="LOCAL-00001" summary="实例化变量">
       <created>1494557310494</created>
@@ -749,7 +751,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8880000" />
+    <option name="totallyTimeSpent" value="9139000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -852,8 +854,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -863,8 +865,8 @@
         <state relative-caret-position="180">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -909,8 +911,8 @@
         <state relative-caret-position="180">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -955,8 +957,8 @@
         <state relative-caret-position="180">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1001,8 +1003,8 @@
         <state relative-caret-position="180">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1079,11 +1081,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="60">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
           </folding>
         </state>
       </provider>

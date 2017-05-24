@@ -1,7 +1,7 @@
 package com;
 
 /**
- * Created by user on 2017/5/12.
+ * Created by Jon on 2017/5/12.
  */
 
 /* 第一个Java程序
