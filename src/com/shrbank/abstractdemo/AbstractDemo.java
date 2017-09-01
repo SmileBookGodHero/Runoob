@@ -5,7 +5,7 @@ package com.shrbank.abstractdemo;
  */
 public class AbstractDemo {
     public static void main(String[] args) {
-        Salary s = new Salary("arya", "winterfell", 14);
+        com.shrbank.abstractdemo.Salary s = new Salary("arya", "winterfell", 14);
         Employee e = new Salary("Sansa", "Winterfell", 15);
         s.mailCheck();
         e.mailCheck();
