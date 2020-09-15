@@ -1,4 +1,4 @@
-package com.company;
+package com.company.abc;
 
 /**
  * Created by user on 2017/5/12.

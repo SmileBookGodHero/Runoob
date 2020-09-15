@@ -1,4 +1,4 @@
-package com.company;
+package com.company.abc;
 
 /**
  * Created by lilei on 2017/6/27.
@@ -11,6 +11,7 @@ class Animal{
 }
 
 class Dog extends Animal{
+    @Override
     public void move(){
         super.move(); // 应用super类的方法
         System.out.println("狗可以跑和走");

@@ -1,4 +1,4 @@
-package com.company;
+package com.company.abc;
 
 /**
  * Created by lilei on 2017/6/30.
@@ -12,6 +12,7 @@ abstract class AnimalBehavior {
 }
 
 class Cat extends AnimalBehavior {
+    @Override
     public void eat() {
         System.out.println("eat fish");
     }
@@ -22,6 +23,7 @@ class Cat extends AnimalBehavior {
 }
 
 class DogBehavior extends AnimalBehavior {
+    @Override
     public void eat() {
         System.out.println("eat bone");
     }
