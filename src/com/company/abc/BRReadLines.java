@@ -1,10 +1,10 @@
 package com.company.abc;
 
-/**
- * Created by lilei on 2017/6/29.
- */
 import java.io.*;
 
+/**
+ * @author lilei
+ */
 public class BRReadLines {
     public static void main(String[] args) throws IOException {
         String s;
